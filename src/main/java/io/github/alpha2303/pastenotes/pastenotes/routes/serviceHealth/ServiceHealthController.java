@@ -1,4 +1,4 @@
-package io.github.alpha2303.pastenotes.pastenotes.serviceHealth;
+package io.github.alpha2303.pastenotes.pastenotes.routes.serviceHealth;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
